@@ -8,8 +8,8 @@ Choose your language / Choisissez votre langue
 ## Quick Links / Liens rapides
 
 - [Issues]()
-- [Changelog Fabric]()
-- [Changelog Neoforge]()
+- [Changelog Fabric](https://github.com/callmeloxy/LoxyStackTweaks/edit/main/fabric/CHANGELOG.md)
+- [Changelog Neoforge]() WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
 
 ## Important
