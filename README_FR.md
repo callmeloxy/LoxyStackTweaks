@@ -1,4 +1,23 @@
+# LoxyStackTweaks
 
+Mod Minecraft léger améliorant de manière sécurisée la taille des stacks grâce à des règles configurables et des protections intégrées.
+
+## Overview
+
+LoxyStackTweaks est un mod utilitaire conçu pour améliorer la taille des stacks sans introduire de comportements dangereux. Il normalise automatiquement les objets vanilla compatibles, permet aux seaux vides de se stacker jusqu’à 64 et propose des règles configurables pour contrôler les objets pouvant ou non être modifiés.
+
+## Features
+
+- Normalisation automatique de la taille des stacks des objets vanilla compatibles
+- Seaux vides stackables jusqu’à 64
+- Protection des seaux remplis
+- Protection des objets possédant une durabilité
+- Protection des objets à données sensibles
+- Whitelist configurable
+- Blacklist configurable
+- Règles `forceToOne` configurables
+- Support de Minecraft `1.21.1`
+- Développement ciblant `Fabric`
 
 ## Rôle du dépôt public
 
