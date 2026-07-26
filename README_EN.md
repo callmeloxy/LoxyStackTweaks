@@ -1,4 +1,23 @@
+# LoxyStackTweaks
 
+Lightweight Minecraft mod that safely improves item stack sizes with configurable rules and built-in protections.
+
+## Overview
+
+LoxyStackTweaks is a utility mod designed to improve item stack sizes without introducing unsafe behavior. It automatically normalizes supported vanilla items, allows empty buckets to stack up to 64, and provides configurable rules for controlling which items can or cannot be modified.
+
+## Features
+
+- Automatic normalization of supported vanilla item stack sizes
+- Empty buckets stackable up to 64
+- Protection for filled buckets
+- Protection for durability-based items
+- Protection for risky data-based items
+- Configurable whitelist
+- Configurable blacklist
+- Configurable force-to-one rules
+- Support for Minecraft `1.21.1`
+- Development targeting `Fabric`
 
 ## Public Repository Purpose
 
