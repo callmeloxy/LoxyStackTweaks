@@ -1,4 +1,4 @@
-# CobbleSpawnAlert Reforged
+# LoxyStackTweaks
 
 Choose your language / Choisissez votre langue
 
